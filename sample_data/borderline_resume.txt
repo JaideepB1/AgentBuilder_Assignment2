@@ -1,0 +1,16 @@
+Sarah Lee
+
+Software Engineer with 4 years of professional
+development experience.
+
+Skills:
+Python, PostgreSQL, REST APIs, Git, Docker
+
+Experience:
+4 years developing web applications and backend
+services. Has worked with Python and PostgreSQL
+extensively and has some Docker experience.
+Limited AWS experience.
+
+Education:
+Bachelor of Science in Information Systems

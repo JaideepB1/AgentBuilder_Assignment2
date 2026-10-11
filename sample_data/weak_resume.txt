@@ -1,0 +1,15 @@
+Alex Johnson
+
+Frontend Developer with 2 years of professional
+software development experience.
+
+Skills:
+JavaScript, TypeScript, React, HTML, CSS, Figma
+
+Experience:
+2 years building frontend web applications with
+React and TypeScript. Focused primarily on user
+interfaces and frontend development.
+
+Education:
+Bachelor of Arts in Digital Media

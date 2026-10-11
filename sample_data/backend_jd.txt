@@ -1,0 +1,13 @@
+Senior Backend Engineer
+
+We are seeking a Senior Backend Engineer to design,
+build, and maintain backend services.
+
+Requirements:
+- 5+ years of backend software development experience
+- Strong Python experience
+- PostgreSQL experience
+- Docker experience
+- AWS experience
+- Experience designing REST APIs
+- Bachelor's degree in Computer Science or equivalent experience
